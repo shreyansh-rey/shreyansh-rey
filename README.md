@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreyansh-rey
+- 👋 Hi, I’m shreyansh
 - 👀 I’m interested in Game development and application development. I really like game design and story writing for games, designing quests and world lore.
 - 🌱 I’m currently learning C++ and art
 - 📫 How to reach me ... @yes_shreyansh - Instagram
